@@ -18,10 +18,3 @@ console.log("ths is my javascrpt file")
     
 
 // })
-nameInput=document.getElementById("name");
-amountInput=document.getElementById("amount");
-let buttonEl=document.getElementById("btn");
-
-buttonEl.addEventlistener("click",function(){
-    alert("you have zerobalance");
-});
